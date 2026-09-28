@@ -1,0 +1,1 @@
+This code will give an error firstly because the System.out.print is printing total which is not a declared variable before being used so the syatem does not undersatnd total and what it is so this can be solved by declaring the varible name first before trying to call it . So the second line should come first before the printing.
