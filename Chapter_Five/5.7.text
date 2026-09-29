@@ -1,0 +1,4 @@
+The do while loop i think it is better because it usually execute the loop body at least once before checking the condition 
+
+
+The while loop checks the execute the body. So once the condition is false it will not bother to move further 

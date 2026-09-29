@@ -1,0 +1,8 @@
+Both while loop and for loop are used for iteration they in the sense that they are used to go o0ver stuff until it is false 
+
+
+
+Difference
+For loop is used for counter controlled in the sense that you know when you want the user to stop so it is stated 
+
+While loop is used for sentinel control in the sense that the user stops when a keyword is inputed by them 

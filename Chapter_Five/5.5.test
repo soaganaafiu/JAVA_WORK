@@ -1,0 +1,19 @@
+The four element in a counter controlled iteration are mentioned below and note this is relating mainly to for loop fo example 
+
+for(int count = 1; count <= 10; count++){
+    System.out.print(count);
+}
+
+
+
+So the count is the control variable it helps us track how many times the loop is executed
+
+
+Initialization this is were the loop will be starting from 
+
+
+Increment or Decrement This help us to change the variable after every loop which is count ++ or can be ++countOne
+
+
+
+The Condition which determines or tells us when the loop should stop 

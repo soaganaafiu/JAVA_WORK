@@ -1,0 +1,15 @@
+a) A while loop is not written as for loop whereby the condition is supposed to be outside the while loop, Also the increment is supposed to be out and it is not correct because increament is i++ not i+
+
+
+
+b)The switch statement is wrong because case do not hold conditions and also the break are also missing
+
+
+
+
+c) The condition was not written properly because this will stop checking at 2 and not 1 so it should be >= 1 and also it is supposed to be decrement not increment so =+ 2 is wrong it is supposed to be -=2
+
+
+
+
+d)  counter + 1 prints out odd not even so it should be +2 and also the condition is not properly stated 

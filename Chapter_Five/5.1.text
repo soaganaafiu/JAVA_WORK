@@ -1,0 +1,17 @@
+a)  for loop is for counter-controlled iteration 
+     while loop is for sentinel controlled iteration
+
+b)  The do...while statement tests the loop-continuation condition "After" executing the loop’s body; therefore, the body always executes at least once.
+
+c)  The "Switch" statement selects among multiple actions based on the possible values of an integer variable or expression, or a String.
+
+d)  The "Continue" statement, when executed in an iteration statement, skips the remaining statements in the loop body and proceeds with the next iteration of the loop.
+
+
+e)  The "&&" operator (with short-circuit evaluation) can be used to ensure that two conditions are both true before choosing a certain path of execution.
+
+f)  If the loop-continuation condition in a "for" header is initially false, the program does not execute the "for loop" statement's body.
+
+
+
+g)  Methods that perform common tasks and do not require objects are "static" methods.

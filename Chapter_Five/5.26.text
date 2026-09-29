@@ -1,0 +1,3 @@
+A break statement can actually be replaced by using another condition 
+
+In the sense that instead of using break to exit the loop thier can be a condition or a boolean that can terminate the loop (Using false) to stop 

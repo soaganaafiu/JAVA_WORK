@@ -1,0 +1,9 @@
+Both break and continue change the flow of execution or control it 
+
+
+
+
+
+break is used to stop a loop
+
+continue skips the remainning statement in an iteration 

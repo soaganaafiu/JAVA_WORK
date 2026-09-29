@@ -1,0 +1,10 @@
+After the while loop the semi colon is not supposed to be thier instaed a curly brace to wrap the body of the text properly so that is the error
+
+
+b) In this situation and this code the k is not equal to 1.0 is not a proper condition and a condition that can be looked forward to being true so it should be changed to something like K greaterthan 1.0
+
+
+c)  The first case is missing a break which will cause a fall through.
+
+
+d)  The code is supposed to be n <= 10 not n<10 this will print just 1 to 9 and not 1 to 10 

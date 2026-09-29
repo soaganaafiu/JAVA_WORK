@@ -1,0 +1,1 @@
+The loop inside will print **** then moves to the next line because of the System.out.println() after the asterik has been printed then the middle repeats 3 times then we have the oter which repeat all 5 times 

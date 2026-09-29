@@ -1,0 +1,17 @@
+a) As for the default case it is not always required in the sense that act as else in an if statement which is other possible option so the answer is false.
+
+b)  A breake case is required in a switch selection in other to avoid fall through so the answer is True.
+
+c)  It is not true if either in the sense that in this situation not either but both have to be true. So the answer is False
+
+
+d)  The or operator || is true if either or both of the condition are true so the answer is True
+
+
+e)  The answer is True the comma is for showing groups.
+
+
+f)  The answer is false because java does not make use of - as range in thier switch case.
+
+
+g)  

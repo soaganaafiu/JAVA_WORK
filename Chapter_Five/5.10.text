@@ -1,0 +1,1 @@
+This code is a nested for loop which prints * and 5 # so the main loop is executed twice which means the inner will be done twice 

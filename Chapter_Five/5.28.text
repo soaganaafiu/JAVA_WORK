@@ -1,0 +1,1 @@
+i think the best way to handle this to remove a continue statement is to use an if statement but having in mind the condition that will be set to it so it prevent the remainning statement in the loop from executing
