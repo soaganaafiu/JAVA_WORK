@@ -19,8 +19,8 @@ public class Array{
             int number = input.nextInt();
 
             numberStored[count] = number;
-
         }
+
 
         for(int index = 0; index <= 4; index++){
 
@@ -59,6 +59,20 @@ public class Array{
             
         }
                 System.out.println("Smallest: " + smallest);
+
+
+        double added = 0;
+        double average = 0;
+
+        for(int count = 0; count < numberStored.length; count++){
+
+            added = added + numberStored[count];
+
+            average = added / numberStored.length;
+
+        }
+
+            System.out.println("Average: " + average);
 
     }
 

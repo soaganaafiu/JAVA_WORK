@@ -1,0 +1,6 @@
+a.Lists and tables of values can be stored in "array"
+b.An array is a group of "variables" (called elements or components) containing values that all have the same "data type".
+c.The "enhanced for" allows you to iterate through an array’s elements without using a counter.
+d.The number used to refer to a particular array element is called the element’s "index".
+e.An array that uses two indices is referred to as a(n) "multi-dimensional" array.
+f.
